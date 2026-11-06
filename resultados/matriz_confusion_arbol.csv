@@ -1,0 +1,4 @@
+real\predicho,frio,normal,calido
+frio,622,0,0
+normal,0,622,0
+calido,0,8,614

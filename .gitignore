@@ -1,0 +1,13 @@
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Binario del firmware MicroPython (se descarga aparte)
+*.bin
+
+# Informes y guias en PDF (no se versionan)
+*.pdf
+
+# Archivos del sistema / editor
+Thumbs.db
+.vscode/
