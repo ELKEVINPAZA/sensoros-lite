@@ -204,10 +204,3 @@ sensoros-lite/
 
 ---
 
-## Notas
-
-- El sistema trabaja con **datos reales** del DHT22; no se usan datos simulados.
-- El DHT22 solo entrega un valor nuevo cada **2 s**; entre lecturas se repite el
-  último valor (comportamiento tenido en cuenta en el entrenamiento).
-- El binario del firmware MicroPython (`.bin`) y los informes en PDF están
-  excluidos por [.gitignore](.gitignore).
